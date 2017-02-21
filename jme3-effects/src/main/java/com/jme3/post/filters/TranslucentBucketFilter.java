@@ -63,6 +63,7 @@ public final class TranslucentBucketFilter extends Filter {
 
     public TranslucentBucketFilter() {
         super("TranslucentBucketFilter");
+        
     }
 
     public TranslucentBucketFilter(boolean enabledSoftParticles) {
